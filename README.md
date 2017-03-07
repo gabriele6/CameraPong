@@ -5,7 +5,7 @@ An input system using camera input of colored objects
 Firefox:  
 Open the "index.html" page
 
-Chrome/Vivaldi:
+Chrome/Vivaldi:  
 Create a webserver  
   >python -m SimpleHTTPServer 8000
   
