@@ -9,5 +9,5 @@ Chrome/Vivaldi:
 Create a webserver  
   >python -m SimpleHTTPServer 8000
   
-Navigate to the "index.html" location    
+Navigate to the directory containing the "index.html" file   
   >localhost:8000/.../myDirectory/
